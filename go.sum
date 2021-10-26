@@ -1,0 +1,10 @@
+github.com/days85/shipping_cargo v0.0.1 h1:zp4DVQ6fnA7az/gbgdbvQ+w8r3KUAHOw+6fwYYMahx0=
+github.com/days85/shipping_cargo v0.0.1/go.mod h1:ldUEWV03SsMSXLApIVQhPuBFdEVb+5HMNynRNIDzRAU=
+github.com/days85/shipping_location v0.0.1 h1:kIHWLBpMzT6YKbwqhDAOtj6TR6ghxiqQWwt9bSxsGKY=
+github.com/days85/shipping_location v0.0.1/go.mod h1:VM4/oXavuxlsVGEg1mMAncM5cUUWJoFYj2yFukQAm2U=
+github.com/days85/shipping_voyage v0.0.1 h1:WcWQ0bCbOxqM9aFt2+oxM4WCGMZej/MY/umcGCJMqdA=
+github.com/days85/shipping_voyage v0.0.1/go.mod h1:kv5sbGNB6NX4LEN8Ny5ty8y6M8QpRx/ax9WhU/lojX0=
+github.com/google/uuid v1.0.0 h1:b4Gk+7WdP/d3HZH8EJsZpvV7EtDOgaZLtnaNGIu1adA=
+github.com/google/uuid v1.0.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/pborman/uuid v1.2.1 h1:+ZZIw58t/ozdjRaXh/3awHfmWRbzYxJoAdNJxe/3pvw=
+github.com/pborman/uuid v1.2.1/go.mod h1:X/NO0urCmaxf9VXbdlT7C2Yzkj2IKimNn4k+gtPdI/k=
